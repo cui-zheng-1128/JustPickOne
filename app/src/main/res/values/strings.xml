@@ -3,4 +3,5 @@
     <string name="add">Add</string>
     <string name="choose">Choose</string>
     <string name="add_new_choice">Add New Choice</string>
+    <string name="clear_all">Clear All</string>
 </resources>
