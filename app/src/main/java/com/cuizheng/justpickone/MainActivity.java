@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
         clearAllButton.setOnClickListener(v -> {
             if(choices.size() > 0){
                 choices.clear();
+                choicesColors.clear();
                 choiceAdapter.notifyDataSetChanged();
             }
         });
